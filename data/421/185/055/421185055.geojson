@@ -64,7 +64,7 @@
     },
     "wof:country":"CI",
     "wof:created":1459009431,
-    "wof:geomhash":"8d6f5def4cdda57eeb98d9833bd03d1c",
+    "wof:geomhash":"3e53a1a6707518e0b87cd6dd64969add",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -89,5 +89,5 @@
     -3.1613155,
     7.656979
 ],
-  "geometry": {"coordinates":[-3.1613155,7.656979],"type":"Point"}
+  "geometry": {"coordinates":[-3.161315,7.656979],"type":"Point"}
 }

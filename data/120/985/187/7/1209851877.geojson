@@ -41,7 +41,7 @@
         "gn:id":2283499
     },
     "wof:country":"CI",
-    "wof:geomhash":"43e067f5623be255e2ae124b7da1dcd5",
+    "wof:geomhash":"82d3c847185c1565e82fde7bf12efe96",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -67,5 +67,5 @@
     -6.65,
     6.0
 ],
-  "geometry": {"coordinates":[-6.65,6.0],"type":"Point"}
+  "geometry": {"coordinates":[-6.65,6],"type":"Point"}
 }
