@@ -59,7 +59,7 @@
     "wof:belongsto":[
         102191573,
         85632449,
-        85669921
+        1108806113
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,13 +74,13 @@
             "continent_id":102191573,
             "country_id":85632449,
             "county_id":1108784983,
-            "region_id":85669921
+            "region_id":1108806113
         }
     ],
     "wof:id":1108784983,
     "wof:lastmodified":1695886488,
     "wof:name":"Indenie-Dj",
-    "wof:parent_id":85669921,
+    "wof:parent_id":1108806113,
     "wof:placetype":"county",
     "wof:placetype_local":"region",
     "wof:population":560432,
