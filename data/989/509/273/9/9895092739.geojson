@@ -1,0 +1,75 @@
+{
+  "id": 9895092739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.15013,5.92273,-6.15013,5.92273",
+    "geom:latitude":5.92273,
+    "geom:longitude":-6.15013,
+    "gn:population":21879,
+    "iso:country":"CI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12687207: name \"Gnatroa\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12687207"
+        },
+        {
+            "citation":"GeoNames populated place 12687207: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12687207"
+        },
+        {
+            "citation":"GeoNames populated place 12687207: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12687207"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108784995 (Goh), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449,
+        102191573,
+        1108784995,
+        1108806103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12687207
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"6de4ec9d519f2faa112f6a042ba8569a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784995,
+            "locality_id":9895092739,
+            "region_id":1108806103
+        }
+    ],
+    "wof:id":9895092739,
+    "wof:lastmodified":1795747119,
+    "wof:name":"Gnatroa",
+    "wof:parent_id":1108784995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.15013,
+    5.92273,
+    -6.15013,
+    5.92273
+],
+  "geometry": {"coordinates":[-6.15013,5.92273],"type":"Point"}
+}

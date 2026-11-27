@@ -1,0 +1,75 @@
+{
+  "id": 9895092730,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-7.18333,7.13333,-7.18333,7.13333",
+    "geom:latitude":7.13333,
+    "geom:longitude":-7.18333,
+    "gn:population":19689,
+    "iso:country":"CI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12687196: name \"Bl\u00e9nim\u00e9ouin\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12687196"
+        },
+        {
+            "citation":"GeoNames populated place 12687196: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12687196"
+        },
+        {
+            "citation":"GeoNames populated place 12687196: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12687196"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108785019 (Guemon), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449,
+        102191573,
+        1108785019,
+        1108806101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12687196
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"33fdcf1bd59d8e46b505537eb6c832a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785019,
+            "locality_id":9895092730,
+            "region_id":1108806101
+        }
+    ],
+    "wof:id":9895092730,
+    "wof:lastmodified":1795747119,
+    "wof:name":"Bl\u00e9nim\u00e9ouin",
+    "wof:parent_id":1108785019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -7.18333,
+    7.13333,
+    -7.18333,
+    7.13333
+],
+  "geometry": {"coordinates":[-7.18333,7.13333],"type":"Point"}
+}

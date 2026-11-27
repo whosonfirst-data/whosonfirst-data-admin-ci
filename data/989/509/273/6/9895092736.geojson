@@ -1,0 +1,75 @@
+{
+  "id": 9895092736,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.15792,5.89674,-5.15792,5.89674",
+    "geom:latitude":5.89674,
+    "geom:longitude":-5.15792,
+    "gn:population":19158,
+    "iso:country":"CI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12687203: name \"Ogoudou\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12687203"
+        },
+        {
+            "citation":"GeoNames populated place 12687203: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12687203"
+        },
+        {
+            "citation":"GeoNames populated place 12687203: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12687203"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108784999 (Loh-Djibou), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449,
+        102191573,
+        1108784999,
+        1108806103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12687203
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"24fb46dd1ce57dd16f66f111849620ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784999,
+            "locality_id":9895092736,
+            "region_id":1108806103
+        }
+    ],
+    "wof:id":9895092736,
+    "wof:lastmodified":1795747119,
+    "wof:name":"Ogoudou",
+    "wof:parent_id":1108784999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.15792,
+    5.89674,
+    -5.15792,
+    5.89674
+],
+  "geometry": {"coordinates":[-5.15792,5.89674],"type":"Point"}
+}

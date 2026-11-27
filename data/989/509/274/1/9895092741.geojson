@@ -1,0 +1,75 @@
+{
+  "id": 9895092741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.55946,5.43102,-6.55946,5.43102",
+    "geom:latitude":5.43102,
+    "geom:longitude":-6.55946,
+    "gn:population":16684,
+    "iso:country":"CI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12687494: name \"Touagui\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12687494"
+        },
+        {
+            "citation":"GeoNames populated place 12687494: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12687494"
+        },
+        {
+            "citation":"GeoNames populated place 12687494: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12687494"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108784981 (Nawa), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449,
+        85669889,
+        102191573,
+        1108784981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12687494
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"a664841fc6926f60d52d2b239e7324fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784981,
+            "locality_id":9895092741,
+            "region_id":85669889
+        }
+    ],
+    "wof:id":9895092741,
+    "wof:lastmodified":1795747119,
+    "wof:name":"Touagui",
+    "wof:parent_id":1108784981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.55946,
+    5.43102,
+    -6.55946,
+    5.43102
+],
+  "geometry": {"coordinates":[-6.55946,5.43102],"type":"Point"}
+}

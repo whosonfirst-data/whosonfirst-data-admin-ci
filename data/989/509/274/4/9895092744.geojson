@@ -1,0 +1,75 @@
+{
+  "id": 9895092744,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-6.74477,5.0491,-6.74477,5.0491",
+    "geom:latitude":5.0491,
+    "geom:longitude":-6.74477,
+    "gn:population":15910,
+    "iso:country":"CI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12687528: name \"Gagny\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12687528"
+        },
+        {
+            "citation":"GeoNames populated place 12687528: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12687528"
+        },
+        {
+            "citation":"GeoNames populated place 12687528: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12687528"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421188355 (San Pedro), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449,
+        85669889,
+        102191573,
+        421188355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12687528
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"7fad781db37de1cd300bbcd959d92103",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":421188355,
+            "locality_id":9895092744,
+            "region_id":85669889
+        }
+    ],
+    "wof:id":9895092744,
+    "wof:lastmodified":1795747119,
+    "wof:name":"Gagny",
+    "wof:parent_id":421188355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.74477,
+    5.0491,
+    -6.74477,
+    5.0491
+],
+  "geometry": {"coordinates":[-6.74477,5.0491],"type":"Point"}
+}

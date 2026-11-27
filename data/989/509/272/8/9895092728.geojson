@@ -1,0 +1,75 @@
+{
+  "id": 9895092728,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.20711,5.46779,-3.20711,5.46779",
+    "geom:latitude":5.46779,
+    "geom:longitude":-3.20711,
+    "gn:population":59225,
+    "iso:country":"CI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 2293507: name \"Aboisso\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/2293507"
+        },
+        {
+            "citation":"GeoNames populated place 2293507: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/2293507"
+        },
+        {
+            "citation":"GeoNames populated place 2293507: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/2293507"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108784985 (Sud-Comoe), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449,
+        102191573,
+        1108784985,
+        1108806113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2293507
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"f930f4b0d995c86c0001f5046d620bb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108784985,
+            "locality_id":9895092728,
+            "region_id":1108806113
+        }
+    ],
+    "wof:id":9895092728,
+    "wof:lastmodified":1795747119,
+    "wof:name":"Aboisso",
+    "wof:parent_id":1108784985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.20711,
+    5.46779,
+    -3.20711,
+    5.46779
+],
+  "geometry": {"coordinates":[-3.20711,5.46779],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 9895092747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.1273,8.48273,-3.1273,8.48273",
+    "geom:latitude":8.48273,
+    "geom:longitude":-3.1273,
+    "gn:population":15815,
+    "iso:country":"CI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12689422: name \"Flaki\u00e8dougou\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12689422"
+        },
+        {
+            "citation":"GeoNames populated place 12689422: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12689422"
+        },
+        {
+            "citation":"GeoNames populated place 12689422: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12689422"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108785053 (Gontougo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449,
+        85669895,
+        102191573,
+        1108785053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12689422
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"384af916d8bcabb0641982ed7c9347fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785053,
+            "locality_id":9895092747,
+            "region_id":85669895
+        }
+    ],
+    "wof:id":9895092747,
+    "wof:lastmodified":1795747119,
+    "wof:name":"Flaki\u00e8dougou",
+    "wof:parent_id":1108785053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.1273,
+    8.48273,
+    -3.1273,
+    8.48273
+],
+  "geometry": {"coordinates":[-3.1273,8.48273],"type":"Point"}
+}

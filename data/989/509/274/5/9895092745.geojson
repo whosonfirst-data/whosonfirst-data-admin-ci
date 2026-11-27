@@ -1,0 +1,75 @@
+{
+  "id": 9895092745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.66127,5.79408,-4.66127,5.79408",
+    "geom:latitude":5.79408,
+    "geom:longitude":-4.66127,
+    "gn:population":16321,
+    "iso:country":"CI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12687966: name \"Gbolouville\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12687966"
+        },
+        {
+            "citation":"GeoNames populated place 12687966: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12687966"
+        },
+        {
+            "citation":"GeoNames populated place 12687966: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12687966"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108785009 (Agneby-Tia), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449,
+        102191573,
+        1108785009,
+        1108806105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12687966
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"af02620c7b735745005da8aaef295c85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785009,
+            "locality_id":9895092745,
+            "region_id":1108806105
+        }
+    ],
+    "wof:id":9895092745,
+    "wof:lastmodified":1795747119,
+    "wof:name":"Gbolouville",
+    "wof:parent_id":1108785009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.66127,
+    5.79408,
+    -4.66127,
+    5.79408
+],
+  "geometry": {"coordinates":[-4.66127,5.79408],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 9895092746,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.96734,6.94321,-5.96734,6.94321",
+    "geom:latitude":6.94321,
+    "geom:longitude":-5.96734,
+    "gn:population":15282,
+    "iso:country":"CI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12688220: name \"Bognonzra\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12688220"
+        },
+        {
+            "citation":"GeoNames populated place 12688220: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12688220"
+        },
+        {
+            "citation":"GeoNames populated place 12688220: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12688220"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108785025 (Marahoue), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632449,
+        102191573,
+        1108785025,
+        1108806117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12688220
+    },
+    "wof:country":"CI",
+    "wof:geomhash":"129d3885f1b33cad1740f992daeabf5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785025,
+            "locality_id":9895092746,
+            "region_id":1108806117
+        }
+    ],
+    "wof:id":9895092746,
+    "wof:lastmodified":1795747119,
+    "wof:name":"Bognonzra",
+    "wof:parent_id":1108785025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ci",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.96734,
+    6.94321,
+    -5.96734,
+    6.94321
+],
+  "geometry": {"coordinates":[-5.96734,6.94321],"type":"Point"}
+}
